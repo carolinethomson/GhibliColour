@@ -1,0 +1,4 @@
+Colourlists file contains all the palettes so far composed, which can be called by the function. 
+Currently these palettes are taken from the posters of studio Ghibli colour palettes by Hyo Taek Kim. More will be added later.
+
+Function file contains the function to call palettes. This is taken from the wes_palettes function by Karthik Ram https://github.com/karthik/
